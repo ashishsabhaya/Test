@@ -14,9 +14,13 @@ struct ContentView: View {
             .padding()
             .background(Color.red)
             
-            Text("User B wants to change.")
+            Text("User B: Kapil Sabhaya")
                 .padding()
                 .background(Color.green)
+            
+            Text("A Php Developer!")
+                .padding()
+                .background(Color.gray)
         }
         .padding()
         .background(Color.blue)

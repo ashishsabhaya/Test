@@ -10,7 +10,6 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack{
-            
             Text("Welcome!")
             .padding()
             .background(Color.red)
@@ -21,6 +20,7 @@ struct ContentView: View {
         }
         .padding()
         .background(Color.blue)
+    
     }
 }
 

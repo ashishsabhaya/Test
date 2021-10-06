@@ -14,9 +14,12 @@ struct ContentView: View {
             .padding()
             .background(Color.red)
             
-            Text("User B wants to change.")
+            Text("User A: Ashish Sabhaya")
                 .padding()
                 .background(Color.green)
+            Text("An iOS Developer!")
+                .padding()
+                .background(Color.gray)
         }
         .padding()
         .background(Color.blue)

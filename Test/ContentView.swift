@@ -14,7 +14,7 @@ struct ContentView: View {
             .padding()
             .background(Color.red)
             
-            Text("User A")
+            Text("User A wants to change.")
                 .padding()
                 .background(Color.green)
         }
